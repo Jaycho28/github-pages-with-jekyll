@@ -7,8 +7,7 @@ title: 개발 1도 모르는 사람의 이야기
 author: JayCho
 email: blahblah@blahblahblha.com
 description: > # this means to ignore newlines until "baseurl:"
- 아이고 개발 1도 모르는 사람이 지금 개발을 한다고 이러고 있어요. 선생님들~ 여기 보세요~!
-
+What did you say?
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
